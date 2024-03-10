@@ -1,0 +1,1 @@
+ A triangle with two straight lines extending out of one of its corners.
