@@ -24,6 +24,7 @@
       show_progress_bar: true,
       auto_update_progress_bar: false,
       on_finish: function () {
+        var data = jsPsych.data.get()
         proliferate.submit({"trials": data.values()});
         window.location =
           "https://app.prolific.com/submissions/complete?cc=CGY6240X";
