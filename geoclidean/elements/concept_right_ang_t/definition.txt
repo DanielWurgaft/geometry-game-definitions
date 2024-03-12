@@ -1,1 +1,1 @@
- A right-angled triangle.
+ A triangle with a 90 degree angle.
