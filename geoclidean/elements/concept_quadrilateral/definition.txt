@@ -1,1 +1,1 @@
- A quadrilateral.
+ A four-sided closed shape.
