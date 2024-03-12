@@ -1,1 +1,1 @@
- A circle and two intersecting lines, one line extends from the circle's circumference and another that passes through the circle's center.
+ A circle and two lines that intersect. One of the lines extends from the circle's circumference and the other line passes through the circle's center.
