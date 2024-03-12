@@ -1,1 +1,1 @@
- A circle containing a triangle whose corners are all on the circle's circumference. Additionally, a straight line extends from one of the triangle's corners.
+ A circle containing a triangle whose corners are all on the circle's border. Additionally, a straight line extends from one of the triangle's corners.
