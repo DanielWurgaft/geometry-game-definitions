@@ -1,1 +1,1 @@
- Two circles and two straight lines. One straight line extends from an intersection point between the circles to a circle's circumference. Another line extends from one circle's circumference to another circle's circumference.
+ Two circles and two straight lines. One straight line extends from an intersection point between the circles to a circle's border. Another line extends from one circle's border to another circle's border.
