@@ -1,1 +1,1 @@
- A triangle with two straight lines extending out of one of its corners.
+ A triangle with one of its corners located at the center of a circle. Additionally, a line extends from that corner to the triangle's side that faces it. 
